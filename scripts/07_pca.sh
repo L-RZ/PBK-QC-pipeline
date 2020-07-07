@@ -126,5 +126,6 @@ $PLINK \
 $PLINK \
 --bfile pbk_btqc_mgqc-rsid \
 --pca 20 header tabs \
+--extract pbk_btqc_mgqc-rsid.prune.in
 --out pbk_btqc_mgqc-rsid.pca
 
